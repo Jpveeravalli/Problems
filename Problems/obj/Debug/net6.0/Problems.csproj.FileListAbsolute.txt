@@ -1,0 +1,12 @@
+C:\Users\veera\Documents\Personal Projects\Practice\DotNet\LeetCode\Problems\Problems\bin\Debug\net6.0\Problems.deps.json
+C:\Users\veera\Documents\Personal Projects\Practice\DotNet\LeetCode\Problems\Problems\bin\Debug\net6.0\Problems.dll
+C:\Users\veera\Documents\Personal Projects\Practice\DotNet\LeetCode\Problems\Problems\bin\Debug\net6.0\Problems.pdb
+C:\Users\veera\Documents\Personal Projects\Practice\DotNet\LeetCode\Problems\Problems\obj\Debug\net6.0\Problems.csproj.AssemblyReference.cache
+C:\Users\veera\Documents\Personal Projects\Practice\DotNet\LeetCode\Problems\Problems\obj\Debug\net6.0\Problems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veera\Documents\Personal Projects\Practice\DotNet\LeetCode\Problems\Problems\obj\Debug\net6.0\Problems.AssemblyInfoInputs.cache
+C:\Users\veera\Documents\Personal Projects\Practice\DotNet\LeetCode\Problems\Problems\obj\Debug\net6.0\Problems.AssemblyInfo.cs
+C:\Users\veera\Documents\Personal Projects\Practice\DotNet\LeetCode\Problems\Problems\obj\Debug\net6.0\Problems.csproj.CoreCompileInputs.cache
+C:\Users\veera\Documents\Personal Projects\Practice\DotNet\LeetCode\Problems\Problems\obj\Debug\net6.0\Problems.dll
+C:\Users\veera\Documents\Personal Projects\Practice\DotNet\LeetCode\Problems\Problems\obj\Debug\net6.0\refint\Problems.dll
+C:\Users\veera\Documents\Personal Projects\Practice\DotNet\LeetCode\Problems\Problems\obj\Debug\net6.0\Problems.pdb
+C:\Users\veera\Documents\Personal Projects\Practice\DotNet\LeetCode\Problems\Problems\obj\Debug\net6.0\ref\Problems.dll
